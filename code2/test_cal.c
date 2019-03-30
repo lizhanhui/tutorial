@@ -1,3 +1,4 @@
+// gcc -L . -I . -lcal -Wl,-rpath,. test_cal.c -o test_cal
 #include "cal.h"
 #include <stdio.h>
 

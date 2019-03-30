@@ -1,3 +1,4 @@
+//gcc -shared -fPIC cal.c -o libcal.so
 int add(int a, int b) {
     return a + b;
 }
